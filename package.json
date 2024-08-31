@@ -1,0 +1,15 @@
+{
+  "name": "myjokers",
+  "version": "1.0.0",
+  "description": "Here, you can find some hilarious jokes!",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Javohir",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2",
+    "sv443-joke-api": "^0.1.0"
+  }
+}
